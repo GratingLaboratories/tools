@@ -15,7 +15,7 @@
       Use <Q>, <W>, <E>, <R>, <T> and <Y> to flip each column's red
       component.   Use <A>, <S>, <D>, <F>, <G> and <H> to flip each
       column's  green component.   Use <Z>, <X>, <C>, <V>, <B>  and
-      <N> to flip each column's blue component.
+      <N> to flip each column's blue component.  Use <ESC> to quit.
 """
 
 import pygame

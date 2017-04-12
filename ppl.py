@@ -12,8 +12,9 @@
         //  ////  |   |_| |_) / \ |_) |_|  |  / \ |_)  |  |_  (_
         /  /////  |__ | | |_) \_/ | \ | |  |  \_/ | \ _|_ |__ __)
     =================================================================
-      Use  <UP> and  <DOWN> to adjust the step.    Use  <LEFT> and
-      <RIGHT> to change the PPL (pixels per line).
+      Use <UP>  and <DOWN>  to adjust  the step.    Use <LEFT>  and
+      <RIGHT>  to change  the PPL  (pixels per line).    Use  <ESC>
+      to quit.
 """
 
 import pygame

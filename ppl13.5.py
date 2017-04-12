@@ -16,7 +16,7 @@
       column's red component.   Use <A>, <S>, <D>, <F>, <G> and <H>
       to flip the first 6 column's green component.   Use <Z>, <X>,
       <C>,  <V>,  <B> and  <N> to flip  the first  6 column's  blue
-      component.
+      component.  Use <ESC> to quit.
 """
 
 import pygame

@@ -13,7 +13,7 @@
         /  /////  |__ | | |_) \_/ | \ | |  |  \_/ | \ _|_ |__ __)
     =================================================================
       Use <UP> and <DOWN> to choose a line.  Use <LEFT> and <RIGHT>
-      to move it around.
+      to move it around.  Use <ESC> to quit.
 """
 
 import pygame
